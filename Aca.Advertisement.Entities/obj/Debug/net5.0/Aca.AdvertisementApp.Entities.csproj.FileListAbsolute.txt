@@ -1,0 +1,12 @@
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.Advertisement.Entities\bin\Debug\net5.0\Aca.AdvertisementApp.Entities.deps.json
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.Advertisement.Entities\bin\Debug\net5.0\Aca.AdvertisementApp.Entities.dll
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.Advertisement.Entities\bin\Debug\net5.0\Aca.AdvertisementApp.Entities.pdb
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.Advertisement.Entities\obj\Debug\net5.0\Aca.AdvertisementApp.Entities.csproj.AssemblyReference.cache
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.Advertisement.Entities\obj\Debug\net5.0\Aca.AdvertisementApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.Advertisement.Entities\obj\Debug\net5.0\Aca.AdvertisementApp.Entities.AssemblyInfoInputs.cache
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.Advertisement.Entities\obj\Debug\net5.0\Aca.AdvertisementApp.Entities.AssemblyInfo.cs
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.Advertisement.Entities\obj\Debug\net5.0\Aca.AdvertisementApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.Advertisement.Entities\obj\Debug\net5.0\Aca.AdvertisementApp.Entities.dll
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.Advertisement.Entities\obj\Debug\net5.0\refint\Aca.AdvertisementApp.Entities.dll
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.Advertisement.Entities\obj\Debug\net5.0\Aca.AdvertisementApp.Entities.pdb
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.Advertisement.Entities\obj\Debug\net5.0\ref\Aca.AdvertisementApp.Entities.dll

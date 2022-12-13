@@ -1,0 +1,12 @@
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Dtos\bin\Debug\net5.0\Aca.AdvertisementApp.Dtos.deps.json
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Dtos\bin\Debug\net5.0\Aca.AdvertisementApp.Dtos.dll
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Dtos\bin\Debug\net5.0\Aca.AdvertisementApp.Dtos.pdb
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Dtos\obj\Debug\net5.0\Aca.AdvertisementApp.Dtos.csproj.AssemblyReference.cache
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Dtos\obj\Debug\net5.0\Aca.AdvertisementApp.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Dtos\obj\Debug\net5.0\Aca.AdvertisementApp.Dtos.AssemblyInfoInputs.cache
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Dtos\obj\Debug\net5.0\Aca.AdvertisementApp.Dtos.AssemblyInfo.cs
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Dtos\obj\Debug\net5.0\Aca.AdvertisementApp.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Dtos\obj\Debug\net5.0\Aca.AdvertisementApp.Dtos.dll
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Dtos\obj\Debug\net5.0\refint\Aca.AdvertisementApp.Dtos.dll
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Dtos\obj\Debug\net5.0\Aca.AdvertisementApp.Dtos.pdb
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Dtos\obj\Debug\net5.0\ref\Aca.AdvertisementApp.Dtos.dll

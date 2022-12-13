@@ -1,0 +1,12 @@
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Common\bin\Debug\net5.0\Aca.AdvertisementApp.Common.deps.json
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Common\bin\Debug\net5.0\Aca.AdvertisementApp.Common.dll
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Common\bin\Debug\net5.0\Aca.AdvertisementApp.Common.pdb
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Common\obj\Debug\net5.0\Aca.AdvertisementApp.Common.csproj.AssemblyReference.cache
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Common\obj\Debug\net5.0\Aca.AdvertisementApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Common\obj\Debug\net5.0\Aca.AdvertisementApp.Common.AssemblyInfoInputs.cache
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Common\obj\Debug\net5.0\Aca.AdvertisementApp.Common.AssemblyInfo.cs
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Common\obj\Debug\net5.0\Aca.AdvertisementApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Common\obj\Debug\net5.0\Aca.AdvertisementApp.Common.dll
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Common\obj\Debug\net5.0\refint\Aca.AdvertisementApp.Common.dll
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Common\obj\Debug\net5.0\Aca.AdvertisementApp.Common.pdb
+C:\Users\univi\source\repos\Aca.AdvertisementApp\Aca.AdvertisementApp.Common\obj\Debug\net5.0\ref\Aca.AdvertisementApp.Common.dll
