@@ -8,7 +8,7 @@ This project is a web application that allows HR employees to manage job adverti
 - C#
 - ASP.NET Core MVC
 - Entity Framework Core
-- SQL Server
+- MsSQL Server
 - Bootstrap
 
 ## Architecture
